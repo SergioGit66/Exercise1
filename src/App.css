@@ -1,0 +1,52 @@
+
+.Nav {
+  display: flex;
+  justify-content: space-around;
+  background-color: #0070FF;
+  color: white;
+  font-size: 17px;
+  width: auto;
+}
+
+.numberExs {
+  display: flex;
+  gap: 15px;
+  color: rgba(255, 255, 255, 0.372);
+}
+
+.numberExs h2:first-child {
+  color: white;
+}
+
+
+.button{
+  padding: 10px;
+}
+button {
+  background-color: #0070FF;
+  box-shadow: none;
+  
+  height: 40px;
+  border-radius: 7px;
+  color: #CBE9EF;
+  font-size: 25px;
+  box-shadow: 0px;
+ 
+
+}
+.exercise {
+  font-size: 60px;
+  padding: 10px;
+}
+
+
+.textInfo {
+  display: flex;
+  background-color: #CBE9EF;
+  width: auto;
+  height: 50px;
+  border-radius: 10px;
+  border-color: #0070FF;
+  padding: 10px;
+  
+}
